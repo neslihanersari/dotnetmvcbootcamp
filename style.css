@@ -2,4 +2,13 @@ table{
     background-color: #333 ;
      color: white;
      border: orange 1px solid;
+     min-width: 500px;
+     with: 100%;
+}
+
+tr:hover{
+    cursor: Pointer;
+    background: #a1a1a1;
+
+
 }
